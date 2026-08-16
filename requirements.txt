@@ -1,0 +1,5 @@
+fastapi==0.139.2
+uvicorn==0.51.0
+firebase-admin==7.5.0
+psycopg==3.3.4
+psycopg-binary==3.3.4
